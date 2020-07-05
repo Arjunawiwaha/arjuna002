@@ -3,7 +3,7 @@
 
 #######################################################
 # Name           : Multi BF (MBF) <cookie method>     #
-# File           : arjuna002.py                             #
+# File           : run.py                             #
 # Author         : Arjuna                             #
 # Github         : https://github.com/Arjunawiwaha           #
 # Facebook       : https://www.facebook.com/Arjuna    #
